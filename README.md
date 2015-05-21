@@ -1,2 +1,3 @@
 # WebProject
-Just another website project.
+
+Juste un projet de site web, rien de bien méchant. :)
